@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/drawable/defalt_option_border_bg.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2171875" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.3020833333333333" />
         <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_main.xml" value="0.340625" />
         <entry key="..\:/Users/Polina/AndroidStudioProjects/Quiz/app/src/main/res/layout/activity_questions.xml" value="0.33" />
       </map>
